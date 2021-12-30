@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ArymanGupta
-- 👀 I’m interested in Problem Solving and  Designing & Developing Software in a creative way.
+- 👀 I’m interested in Problem Solving and  Designing, Developing Software in a creative way.
 - 🌱 I’m currently learning Python and Java Script.
 - 💬 Ask me about: C,C++ and Java.
 - 🥅 2022 Goal: To learn as much as I can.
